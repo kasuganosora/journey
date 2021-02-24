@@ -1,6 +1,8 @@
 # Journey
 A blog engine written in Go, compatible with Ghost themes.
 
+# !!! In development, Don't use in production environment !!!
+
 ![Editor](https://raw.githubusercontent.com/kabukky/journey/gh-pages/images/journey.png)
 
 ## About
